@@ -1,0 +1,38 @@
+[
+  {
+    "produto": "Capa Snow A02",
+    "id_produto": 46725848
+  },
+  {
+    "produto": "Capa Snow A01",
+    "id_produto": 46725849
+  },
+  {
+    "produto": "Capa Mestre Jedi - Star Wars",
+    "id_produto": 46725850
+  },
+  {
+    "produto": "Capa akatsuki - longa",
+    "id_produto": 46725851
+  },
+  {
+    "produto": "Capa akatsuki - curta",
+    "id_produto": 46725852
+  },
+  {
+    "produto": "Capa Ravena",
+    "id_produto": 46725853
+  },
+  {
+    "produto": "Bandana Pet - unidog (P)",
+    "id_produto": 46725854,
+    "variacao": "P",
+    "id_variacao": 124449941
+  },
+  {
+    "produto": "Bandana Pet - unidog (G)",
+    "id_produto": 46725854,
+    "variacao": "G",
+    "id_variacao": 124449942
+  }
+]
