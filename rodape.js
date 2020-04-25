@@ -1,1 +1,3 @@
-console.log('oi');
+function mhTeste(){
+  console.log('oi');
+}
