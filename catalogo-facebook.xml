@@ -5,11 +5,11 @@
 <link>http://www.itemraro.com.br</link>
 <description>Produtos da loja Item Raro</description>
 <item>
-<g:id>47847451</g:id>
-<g:title>Máscara de Tecido Triplo - Preta</g:title>
-<g:description>Máscara de Tecido Triplo - Preta</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-preta</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/preta-011-55d8ac5e693ecb990715878447444159-1024-1024.jpg</g:image_link>
+<g:id>47834915</g:id>
+<g:title>Máscara de Tecido Triplo - Caveira</g:title>
+<g:description>Máscara de Tecido Triplo - Caveira</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-caveira</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/caveira-011-05a2b4796925ae34e015878527656146-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -17,11 +17,11 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
-<g:id>47847363</g:id>
-<g:title>Máscara de Tecido Triplo - Sakura</g:title>
-<g:description>Máscara de Tecido Triplo - Sakura</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-sakura</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/sakura-011-c4a4d88aa141d75aeb15878497705450-1024-1024.jpg</g:image_link>
+<g:id>47847451</g:id>
+<g:title>Máscara de Tecido Triplo - Preta</g:title>
+<g:description>Máscara de Tecido Triplo - Preta</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-preta</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/preta-011-55d8ac5e693ecb990715878447444159-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -41,11 +41,11 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
-<g:id>47834915</g:id>
-<g:title>Máscara de Tecido Triplo - Caveira</g:title>
-<g:description>Máscara de Tecido Triplo - Caveira</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-caveira</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/caveira-011-05a2b4796925ae34e015878527656146-1024-1024.jpg</g:image_link>
+<g:id>47847363</g:id>
+<g:title>Máscara de Tecido Triplo - Sakura</g:title>
+<g:description>Máscara de Tecido Triplo - Sakura</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-sakura</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/sakura-011-c4a4d88aa141d75aeb15878497705450-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -161,11 +161,35 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
+<g:id>47847196</g:id>
+<g:title>Máscara de Tecido Triplo - Universo</g:title>
+<g:description>Máscara de Tecido Triplo - Universo</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-universo</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/universo-031-4fcabed9021c7c137215878525292895-1024-1024.jpg</g:image_link>
+<g:brand>ItemRaro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>18 BRL</g:price>
+<g:google_product_category>513</g:google_product_category>
+</item>
+<item>
 <g:id>47846942</g:id>
 <g:title>Máscara de Tecido Triplo - Baleia Clara</g:title>
 <g:description>Máscara de Tecido Triplo - Baleia Clara</g:description>
 <g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-baleia-clara</g:link>
 <g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/baleib-011-9da9109229ae74827415878522689823-1024-1024.jpg</g:image_link>
+<g:brand>ItemRaro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>18 BRL</g:price>
+<g:google_product_category>513</g:google_product_category>
+</item>
+<item>
+<g:id>47846309</g:id>
+<g:title>Máscara de Tecido Triplo - Harry Potter Plataforma 9 3/4</g:title>
+<g:description>Máscara de Tecido Triplo - Harry Potter Plataforma 9 3/4</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-harry-potter-plataforma-9-3-4</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/plataforma9-3-4-011-d8258cab801dbb1f8915863097731471-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -190,6 +214,18 @@
 <g:description>Máscara de Tecido Triplo - Corações</g:description>
 <g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-coracoes</g:link>
 <g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/coracoes-011-db0c048e4f527d0d4615863090584792-1024-1024.jpg</g:image_link>
+<g:brand>ItemRaro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>18 BRL</g:price>
+<g:google_product_category>513</g:google_product_category>
+</item>
+<item>
+<g:id>47845339</g:id>
+<g:title>Máscara de Tecido Triplo - Carinha Beijinho</g:title>
+<g:description>Máscara de Tecido Triplo - Carinha Beijinho</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-carinha-beijinho</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/carinha-beijinho-011-25221a66589415956615863082663903-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -233,35 +269,11 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
-<g:id>47847196</g:id>
-<g:title>Máscara de Tecido Triplo - Universo</g:title>
-<g:description>Máscara de Tecido Triplo - Universo</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-universo</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/universo-031-4fcabed9021c7c137215878525292895-1024-1024.jpg</g:image_link>
-<g:brand>ItemRaro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>18 BRL</g:price>
-<g:google_product_category>513</g:google_product_category>
-</item>
-<item>
 <g:id>47846397</g:id>
 <g:title>Máscara de Tecido Triplo - Gato Estranho pra Krl</g:title>
 <g:description>Máscara de Tecido Triplo - Gato Estranho pra Krl</g:description>
 <g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-gato-estranho-pra-krl</g:link>
 <g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/gato-estranho-pra-caralho-011-17ebd0e984edd6e08c15863099335694-1024-1024.jpg</g:image_link>
-<g:brand>ItemRaro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>18 BRL</g:price>
-<g:google_product_category>513</g:google_product_category>
-</item>
-<item>
-<g:id>47846309</g:id>
-<g:title>Máscara de Tecido Triplo - Harry Potter Plataforma 9 3/4</g:title>
-<g:description>Máscara de Tecido Triplo - Harry Potter Plataforma 9 3/4</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-harry-potter-plataforma-9-3-4</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/plataforma9-3-4-011-d8258cab801dbb1f8915863097731471-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -281,11 +293,35 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
-<g:id>47845339</g:id>
-<g:title>Máscara de Tecido Triplo - Carinha Beijinho</g:title>
-<g:description>Máscara de Tecido Triplo - Carinha Beijinho</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-carinha-beijinho</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/carinha-beijinho-011-25221a66589415956615863082663903-1024-1024.jpg</g:image_link>
+<g:id>47845697</g:id>
+<g:title>Máscara de Tecido Triplo - Totoro</g:title>
+<g:description>Máscara de Tecido Triplo - Totoro</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-totoro</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/totoro-011-cc7553f78d6757f83615863089736159-1024-1024.jpg</g:image_link>
+<g:brand>ItemRaro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>18 BRL</g:price>
+<g:google_product_category>513</g:google_product_category>
+</item>
+<item>
+<g:id>47845248</g:id>
+<g:title>Máscara de Tecido Triplo - Pikachu</g:title>
+<g:description>Máscara de Tecido Triplo - Pikachu</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-pikachu</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/pikachu-011-a1475b4cdfa9755d0115863080301285-1024-1024.jpg</g:image_link>
+<g:brand>ItemRaro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>18 BRL</g:price>
+<g:google_product_category>513</g:google_product_category>
+</item>
+<item>
+<g:id>47845222</g:id>
+<g:title>Máscara de Tecido Triplo - Charmander</g:title>
+<g:description>Máscara de Tecido Triplo - Charmander</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-charmander</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/charmander-011-09294a7cfd7d4f3d0f15863079945598-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -461,6 +497,18 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
+<g:id>47846430</g:id>
+<g:title>Máscara de Tecido Triplo - Mulher Maravilha P&amp;B</g:title>
+<g:description>Máscara de Tecido Triplo - Mulher Maravilha P&amp;B</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-mulher-maravilha-pb</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/mulher-maravilha-peb-011-b935c985d81e44f03b15863099736346-1024-1024.jpg</g:image_link>
+<g:brand>ItemRaro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>18 BRL</g:price>
+<g:google_product_category>513</g:google_product_category>
+</item>
+<item>
 <g:id>47846204</g:id>
 <g:title>Máscara de Tecido Triplo - Signos</g:title>
 <g:description>Máscara de Tecido Triplo - Signos</g:description>
@@ -473,11 +521,11 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
-<g:id>47845697</g:id>
-<g:title>Máscara de Tecido Triplo - Totoro</g:title>
-<g:description>Máscara de Tecido Triplo - Totoro</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-totoro</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/totoro-011-cc7553f78d6757f83615863089736159-1024-1024.jpg</g:image_link>
+<g:id>47846179</g:id>
+<g:title>Máscara de Tecido Triplo - Darth Vader</g:title>
+<g:description>Máscara de Tecido Triplo - Darth Vader</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-darth-vader</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/darth-vader-011-ff86fff70eca1c7a2b15863095477423-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -497,23 +545,11 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
-<g:id>47845248</g:id>
-<g:title>Máscara de Tecido Triplo - Pikachu</g:title>
-<g:description>Máscara de Tecido Triplo - Pikachu</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-pikachu</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/pikachu-011-a1475b4cdfa9755d0115863080301285-1024-1024.jpg</g:image_link>
-<g:brand>ItemRaro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>18 BRL</g:price>
-<g:google_product_category>513</g:google_product_category>
-</item>
-<item>
-<g:id>47845222</g:id>
-<g:title>Máscara de Tecido Triplo - Charmander</g:title>
-<g:description>Máscara de Tecido Triplo - Charmander</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-charmander</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/charmander-011-09294a7cfd7d4f3d0f15863079945598-1024-1024.jpg</g:image_link>
+<g:id>47844836</g:id>
+<g:title>Máscara de Tecido Triplo - Naruto Akatsuki</g:title>
+<g:description>Máscara de Tecido Triplo - Naruto Akatsuki</g:description>
+<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-naruto-akatsuki</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/akatsuki-011-87cc2ef7a0d18c063c15863075152476-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -1037,18 +1073,6 @@
 <g:google_product_category>513</g:google_product_category>
 </item>
 <item>
-<g:id>47846430</g:id>
-<g:title>Máscara de Tecido Triplo - Mulher Maravilha P&amp;B</g:title>
-<g:description>Máscara de Tecido Triplo - Mulher Maravilha P&amp;B</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-mulher-maravilha-pb</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/mulher-maravilha-peb-011-b935c985d81e44f03b15863099736346-1024-1024.jpg</g:image_link>
-<g:brand>ItemRaro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>18 BRL</g:price>
-<g:google_product_category>513</g:google_product_category>
-</item>
-<item>
 <g:id>47846402</g:id>
 <g:title>Máscara de Tecido Triplo - Pentakill</g:title>
 <g:description>Máscara de Tecido Triplo - Pentakill</g:description>
@@ -1126,18 +1150,6 @@
 <g:description>Máscara de Tecido Triplo - David Bowie</g:description>
 <g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-david-bowie</g:link>
 <g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/david-bowie-011-2785aa2ffc9521c2dc15863095579781-1024-1024.jpg</g:image_link>
-<g:brand>ItemRaro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>18 BRL</g:price>
-<g:google_product_category>513</g:google_product_category>
-</item>
-<item>
-<g:id>47846179</g:id>
-<g:title>Máscara de Tecido Triplo - Darth Vader</g:title>
-<g:description>Máscara de Tecido Triplo - Darth Vader</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-darth-vader</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/darth-vader-011-ff86fff70eca1c7a2b15863095477423-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
@@ -1366,18 +1378,6 @@
 <g:description>Máscara de Tecido Triplo - Árvore da Vida</g:description>
 <g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-arvore-da-vida</g:link>
 <g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/arvore-da-vida-011-026514c77228993a7215863076358051-1024-1024.jpg</g:image_link>
-<g:brand>ItemRaro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>18 BRL</g:price>
-<g:google_product_category>513</g:google_product_category>
-</item>
-<item>
-<g:id>47844836</g:id>
-<g:title>Máscara de Tecido Triplo - Naruto Akatsuki</g:title>
-<g:description>Máscara de Tecido Triplo - Naruto Akatsuki</g:description>
-<g:link>https://itemraro.com.br/produtos/mascara-de-tecido-triplo-naruto-akatsuki</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/akatsuki-011-87cc2ef7a0d18c063c15863075152476-1024-1024.jpg</g:image_link>
 <g:brand>ItemRaro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
