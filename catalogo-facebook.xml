@@ -1318,18 +1318,6 @@
 <g:google_product_category></g:google_product_category>
 </item>
 <item>
-<g:id>65101867</g:id>
-<g:title>Capa Ravena</g:title>
-<g:description>Capa Ravena</g:description>
-<g:link>https://www.itemraro.com.br/produtos/capa-ravena</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/ravenna-011-689b5dc0626520056b16044329569972-1024-1024.jpg</g:image_link>
-<g:brand>Item Raro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>75 BRL</g:price>
-<g:google_product_category>5907</g:google_product_category>
-</item>
-<item>
 <g:id>65101540</g:id>
 <g:title>Capa Harry Potter - Corvinal</g:title>
 <g:description>Capa Harry Potter - Corvinal</g:description>
@@ -2439,6 +2427,18 @@
 <g:description>Capa Harry Potter - Lufa-Lufa</g:description>
 <g:link>https://www.itemraro.com.br/produtos/capa-harry-potter-lufa-lufa</g:link>
 <g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/hpa1-c1acc85f2caaca1fb616019276008732-1024-1024.jpg</g:image_link>
+<g:brand>Item Raro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>out of stock</g:availability>
+<g:price>75 BRL</g:price>
+<g:google_product_category>5907</g:google_product_category>
+</item>
+<item>
+<g:id>65101867</g:id>
+<g:title>Capa Ravena</g:title>
+<g:description>Capa Ravena</g:description>
+<g:link>https://www.itemraro.com.br/produtos/capa-ravena</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/ravenna-011-689b5dc0626520056b16044329569972-1024-1024.jpg</g:image_link>
 <g:brand>Item Raro</g:brand>
 <g:condition>new</g:condition>
 <g:availability>out of stock</g:availability>
