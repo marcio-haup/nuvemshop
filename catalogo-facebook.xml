@@ -5,6 +5,17 @@
 <link>http://www.itemraro.com.br</link>
 <description>Produtos da loja Item Raro</description>
 <item>
+<g:id>66638764</g:id>
+<g:title>Pelúcia Among Us</g:title>
+<g:description>Pelúcia Among Us</g:description>
+<g:link>https://www.itemraro.com.br/produtos/pelucia-among-us</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/preto1-e58aa6773eaf7357a116062708887548-1024-1024.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>29 BRL</g:price>
+<g:google_product_category>4454</g:google_product_category>
+</item>
+<item>
 <g:id>47847451</g:id>
 <g:title>Máscara de Tecido Triplo Monocromáticas</g:title>
 <g:description>Máscara de Tecido Triplo Monocromáticas</g:description>
@@ -15,17 +26,6 @@
 <g:availability>in stock</g:availability>
 <g:price>18 BRL</g:price>
 <g:google_product_category>513</g:google_product_category>
-</item>
-<item>
-<g:id>66638764</g:id>
-<g:title>Pelúcia Among Us</g:title>
-<g:description>Pelúcia Among Us</g:description>
-<g:link>https://www.itemraro.com.br/produtos/pelucia-among-us</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/preto1-e58aa6773eaf7357a116062708887548-1024-1024.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>29 BRL</g:price>
-<g:google_product_category>4454</g:google_product_category>
 </item>
 <item>
 <g:id>47846907</g:id>
@@ -326,6 +326,17 @@
 <g:google_product_category>4454</g:google_product_category>
 </item>
 <item>
+<g:id>69386843</g:id>
+<g:title>Pelúcia Among Us Grande - Viva a Diversidade</g:title>
+<g:description>Pelúcia Among Us Grande - Viva a Diversidade</g:description>
+<g:link>https://www.itemraro.com.br/produtos/pelucia-among-us-grande-viva-a-diversidade</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/arco-irir-frente-g1-6cba66accaea33076616062752456020-1024-1024.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>49 BRL</g:price>
+<g:google_product_category>4454</g:google_product_category>
+</item>
+<item>
 <g:id>50128981</g:id>
 <g:title>Máscara de Tecido Triplo Estampinhas Decididas</g:title>
 <g:description>Máscara de Tecido Triplo Estampinhas Decididas</g:description>
@@ -453,17 +464,6 @@
 <g:availability>in stock</g:availability>
 <g:price>25 BRL</g:price>
 <g:google_product_category>5004</g:google_product_category>
-</item>
-<item>
-<g:id>69386843</g:id>
-<g:title>Pelúcia Among Us Grande - Viva a Diversidade</g:title>
-<g:description>Pelúcia Among Us Grande - Viva a Diversidade</g:description>
-<g:link>https://www.itemraro.com.br/produtos/pelucia-among-us-grande-viva-a-diversidade</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/arco-irir-frente-g1-6cba66accaea33076616062752456020-1024-1024.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>49 BRL</g:price>
-<g:google_product_category>4454</g:google_product_category>
 </item>
 <item>
 <g:id>69382138</g:id>
