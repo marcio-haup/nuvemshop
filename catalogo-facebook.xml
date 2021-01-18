@@ -1404,30 +1404,6 @@
 <g:google_product_category></g:google_product_category>
 </item>
 <item>
-<g:id>65086739</g:id>
-<g:title>Capa Harry Potter - Sonceria</g:title>
-<g:description>Capa Harry Potter - Sonceria</g:description>
-<g:link>https://www.itemraro.com.br/produtos/capa-harry-potter-sonceria</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/hpsoncerina-011-cb2d919b2ffbb0dec916044330083158-1024-1024.jpg</g:image_link>
-<g:brand>Item Raro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>75 BRL</g:price>
-<g:google_product_category>5907</g:google_product_category>
-</item>
-<item>
-<g:id>65086506</g:id>
-<g:title>Capa Dragão - Banguela</g:title>
-<g:description>Capa Dragão - Banguela</g:description>
-<g:link>https://www.itemraro.com.br/produtos/capa-dragao-banguela</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/banguela-011-951b3e927e51f1d50516044330639273-1024-1024.jpg</g:image_link>
-<g:brand>Item Raro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>75 BRL</g:price>
-<g:google_product_category>5907</g:google_product_category>
-</item>
-<item>
 <g:id>65084486</g:id>
 <g:title>Capa Élfica - Luthien</g:title>
 <g:description>Capa Élfica - Luthien</g:description>
@@ -2347,18 +2323,6 @@
 <g:google_product_category>5004</g:google_product_category>
 </item>
 <item>
-<g:id>46725852</g:id>
-<g:title>Capa akatsuki - curta</g:title>
-<g:description>Capa akatsuki - curta</g:description>
-<g:link>https://www.itemraro.com.br/produtos/capa-akatsuki-curta</g:link>
-<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/capa-akatsuki-curta2cb0b89-capa-akatsuki-curta-roupa11-ae040984d010363dce15844518826464-1024-1024.jpg</g:image_link>
-<g:brand>Item Raro</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>75 BRL</g:price>
-<g:google_product_category>5907</g:google_product_category>
-</item>
-<item>
 <g:id>46725850</g:id>
 <g:title>Capa Mestre Jedi - Star Wars</g:title>
 <g:description>Capa Mestre Jedi - Star Wars</g:description>
@@ -2512,6 +2476,30 @@
 <g:google_product_category>5907</g:google_product_category>
 </item>
 <item>
+<g:id>65086739</g:id>
+<g:title>Capa Harry Potter - Sonceria</g:title>
+<g:description>Capa Harry Potter - Sonceria</g:description>
+<g:link>https://www.itemraro.com.br/produtos/capa-harry-potter-sonceria</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/hpsoncerina-011-cb2d919b2ffbb0dec916044330083158-1024-1024.jpg</g:image_link>
+<g:brand>Item Raro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>out of stock</g:availability>
+<g:price>75 BRL</g:price>
+<g:google_product_category>5907</g:google_product_category>
+</item>
+<item>
+<g:id>65086506</g:id>
+<g:title>Capa Dragão - Banguela</g:title>
+<g:description>Capa Dragão - Banguela</g:description>
+<g:link>https://www.itemraro.com.br/produtos/capa-dragao-banguela</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/banguela-011-951b3e927e51f1d50516044330639273-1024-1024.jpg</g:image_link>
+<g:brand>Item Raro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>out of stock</g:availability>
+<g:price>75 BRL</g:price>
+<g:google_product_category>5907</g:google_product_category>
+</item>
+<item>
 <g:id>57084891</g:id>
 <g:title>Almofada Térmica de sementes e ervas - WANDER</g:title>
 <g:description>Almofada Térmica de sementes e ervas - WANDER</g:description>
@@ -2594,6 +2582,18 @@
 <g:availability>out of stock</g:availability>
 <g:price>25 BRL</g:price>
 <g:google_product_category>4454</g:google_product_category>
+</item>
+<item>
+<g:id>46725852</g:id>
+<g:title>Capa akatsuki - curta</g:title>
+<g:description>Capa akatsuki - curta</g:description>
+<g:link>https://www.itemraro.com.br/produtos/capa-akatsuki-curta</g:link>
+<g:image_link>http://d26lpennugtm8s.cloudfront.net/stores/001/125/116/products/capa-akatsuki-curta2cb0b89-capa-akatsuki-curta-roupa11-ae040984d010363dce15844518826464-1024-1024.jpg</g:image_link>
+<g:brand>Item Raro</g:brand>
+<g:condition>new</g:condition>
+<g:availability>out of stock</g:availability>
+<g:price>75 BRL</g:price>
+<g:google_product_category>5907</g:google_product_category>
 </item>
 <item>
 <g:id>46725851</g:id>
